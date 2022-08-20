@@ -25,5 +25,7 @@ platform :ios do
   scheme: "FastlaneTest",
   workspace: "FastlaneTest.xcworkspace"
 )
+
+puts "This is feature branch build"
   end
 end
